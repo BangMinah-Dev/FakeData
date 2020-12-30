@@ -108,6 +108,17 @@
       "bio": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
       "gender": "Male",
       "avatar": "https://robohash.org/estipsamalias.png?size=150x150&set=set1"
+    },
+    {
+      "id": 11,
+      "name": "TEST",
+      "email": "test@test.com",
+      "password": "test",
+      "phone": "123-345-6789",
+      "birthday": "00/00/0000",
+      "bio": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+      "gender": "Other",
+      "avatar": "https://robohash.org/estipsamalias.png?size=150x150&set=set1"
     }
   ],
   "products": [
