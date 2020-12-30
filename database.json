@@ -100,13 +100,13 @@
     },
     {
       "id": 10,
-      "name": "Torrance Arboine",
-      "email": "tarboine9@delicious.com",
-      "password": "tarboine9",
-      "phone": "411-464-4275",
-      "birthday": "8/18/2005",
+      "name": "Kim Jisoo",
+      "email": "Jisoo@js.com",
+      "password": "Jisoo123",
+      "phone": "555-555-5555",
+      "birthday": "03/01/1995",
       "bio": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
-      "gender": "Male",
+      "gender": "Female",
       "avatar": "https://robohash.org/estipsamalias.png?size=150x150&set=set1"
     },
     {
