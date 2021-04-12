@@ -683,18 +683,20 @@
       "birthday": "26/05/1993",
       "id": 97
     }, {
-      "name": "Laetitia McLeman",
-      "email": "lmcleman2p@mac.com",
-      "password": "UOrFqTOQ",
+      "name": "Kim Jisoo",
+      "email": "jisoo@blackpink.com",
+      "password": "jisoo",
       "phone": "419-725-1773",
       "birthday": "14/02/1999",
+      "avatar" : "https://github.com/BangMinah-Dev/avatar/blob/main/avatar2.jpg",
       "id": 98
     }, {
-      "name": "Gaylene Pettwood",
-      "email": "gpettwood2q@archive.org",
-      "password": "ajAkadeu",
+      "name": "Huy",
+      "email": "huytq@gmail.com",
+      "password": "huy",
       "phone": "245-179-9483",
       "birthday": "10/11/2007",
+      "avatar" : "https://github.com/BangMinah-Dev/avatar/blob/main/iuV%20.jpg",
       "id": 99
     },
     {
@@ -703,6 +705,7 @@
       "password": "admin",
       "phone": "123-456-7890",
       "birthday": "08/08/1981",
+      "avatar" : "https://github.com/BangMinah-Dev/avatar/blob/main/avatar3.jpg",
       "id": 100
     }
   ],
